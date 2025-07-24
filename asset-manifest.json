@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Kim-suk/AutoResume.git/static/css/main.59a28c4f.css",
+    "main.js": "/Kim-suk/AutoResume.git/static/js/main.2c66d873.js",
+    "index.html": "/Kim-suk/AutoResume.git/index.html",
+    "main.59a28c4f.css.map": "/Kim-suk/AutoResume.git/static/css/main.59a28c4f.css.map",
+    "main.2c66d873.js.map": "/Kim-suk/AutoResume.git/static/js/main.2c66d873.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59a28c4f.css",
+    "static/js/main.2c66d873.js"
+  ]
+}
