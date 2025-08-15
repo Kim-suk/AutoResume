@@ -31,7 +31,7 @@
 <hr style="border: 3px solid #000;">
 
 ## 📅 프로젝트 기간
-2025.07.23 ~ 2025.06.27
+2025.07.23 ~ 
 
 <hr style="border: 3px solid #000;">
 
